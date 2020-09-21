@@ -1,0 +1,9 @@
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\bin\Debug\netcoreapp2.1\Fixit.DataTransfersObject.deps.json
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\bin\Debug\netcoreapp2.1\Fixit.DataTransfersObject.dll
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\bin\Debug\netcoreapp2.1\Fixit.DataTransfersObject.pdb
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.csprojAssemblyReference.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.AssemblyInfoInputs.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.AssemblyInfo.cs
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.dll
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fixit.DataTransfersObject\obj\Debug\netcoreapp2.1\Fixit.DataTransfersObject.pdb

@@ -12,3 +12,6 @@ C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netc
 C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.RazorTargetAssemblyInfo.cache
 C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.dll
 C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.pdb
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fixit.DataTransfersObject.dll
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fixit.DataTransfersObject.pdb
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.csproj.CopyComplete
