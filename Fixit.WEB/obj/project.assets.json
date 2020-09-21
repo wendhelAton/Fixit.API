@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.WEB\\Fixit.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.WEB\\Fixit.WEB.csproj",
       "projectName": "Fixit.WEB",
-      "projectPath": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.WEB\\Fixit.WEB.csproj",
+      "projectPath": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.WEB\\Fixit.WEB.csproj",
       "packagesPath": "C:\\Users\\VGD 14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.WEB\\obj\\",
+      "outputPath": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

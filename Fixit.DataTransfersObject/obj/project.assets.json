@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.DataTransfersObject\\Fixit.DataTransfersObject.csproj",
+      "projectUniqueName": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.DataTransfersObject\\Fixit.DataTransfersObject.csproj",
       "projectName": "Fixit.DataTransfersObject",
-      "projectPath": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.DataTransfersObject\\Fixit.DataTransfersObject.csproj",
+      "projectPath": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.DataTransfersObject\\Fixit.DataTransfersObject.csproj",
       "packagesPath": "C:\\Users\\VGD 14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VGD 14\\source\\repos\\Fix.API\\Fixit.DataTransfersObject\\obj\\",
+      "outputPath": "C:\\Users\\VGD 14\\Pictures\\Capstones Project\\Fixit.API.root\\Fixit.DataTransfersObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,14 @@
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fix.API.deps.json
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fix.API.runtimeconfig.json
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fix.API.runtimeconfig.dev.json
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fix.API.dll
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\bin\Debug\netcoreapp2.1\Fix.API.pdb
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.csprojAssemblyReference.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.RazorAssemblyInfo.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.RazorAssemblyInfo.cs
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.AssemblyInfoInputs.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.AssemblyInfo.cs
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.RazorTargetAssemblyInfo.cache
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.dll
+C:\Users\VGD 14\Pictures\Capstones Project\Fixit.API.root\Fix.API\obj\Debug\netcoreapp2.1\Fix.API.pdb
