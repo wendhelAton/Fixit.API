@@ -19,9 +19,10 @@ namespace Fix.API.Controllers
             _context = context;
         }
 
+        [HttpGet,Route("api/index")]
         public IActionResult Index()
         {
-            return Ok();
+            return Ok("OK");
         }
     }
 }

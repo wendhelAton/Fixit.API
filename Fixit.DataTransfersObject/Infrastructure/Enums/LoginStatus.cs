@@ -6,8 +6,8 @@ namespace Fixit.DataTransfersObject.Infrastructure.Enums
 {
     public enum LoginStatus
     {
-        Active,
-        InActive,
-        NeedToChangePassword
+        Active = 1,
+        InActive = 2,
+        NeedToChangePassword = 3
     }
 }
